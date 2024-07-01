@@ -16,10 +16,7 @@ The dataset contains 60,000 training images and 10,000 testing images. Each imag
 
 ## Project Structure
 The project is structured as follows:
-mnist-project/
-│
-├── data/
-│ └── mnist.npz
+MNIST/
 │
 ├── notebooks/
 │ └── MNIST.ipynb
