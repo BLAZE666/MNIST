@@ -23,7 +23,7 @@ MNIST/
 
 ## Requirements
 - Python 3.7+
-- TensorFlow 2.x
+- TensorFlow 2.0
 - NumPy
 - Matplotlib
 - Jupyter
